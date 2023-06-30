@@ -1,0 +1,83 @@
+﻿@page
+@model ToyStoreWEB.Pages.AdminsModel
+@{
+}
+<head>
+    <title>@ViewData["Title"]ChildrenToys</title>
+    <link rel="stylesheet" href="~/css/admin.css"/>
+</head>
+<body>
+    <div  style="border: 2px solid #333;">
+        <h1>Добавление товара</h1>
+        <form method="post">
+            <label for="name">Имя товара:</label>
+            <input type="text" name="name" required><br>
+
+            <label for="price">Цена:</label>
+            <input type="text" id="price" name="price" required><br>
+
+            <label for="description">Описание:</label>
+            <input type="text" name="description" required><br>
+
+            <label for="url">Фотография товара:</label>
+            <input type="text" id="url" name="url" required><br>
+
+            <div class="form-group">
+                <label for="category">Категория:</label>
+                <select name="categoryId" required>
+                    <option value="">Выберите категорию:</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value=@category.Id>@category.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="producer">Производитель:</label>
+                <select name="producerId" required>
+                    <option value="">Выберите производителям:</option>
+                    @foreach (var producer in Model.Producers)
+                    {
+                        <option value=@producer.Id>@producer.Name @producer.Company</option>
+                    }
+                </select>
+            </div>
+            <input asp-page-handler="Product" type="submit" value="Добавить"/>
+        </form>
+    </div>
+    <br />
+    <br />
+    <div style="border: 2px solid #333;">
+        <h1>Добавление производителя</h1>
+        <form method="post">
+            <label for="name">Имя производителя:</label>
+            <input type="text" name="name" required><br>
+
+            <label for="company">Компания:</label>
+            <input type="text" name="company" required><br>
+            <input asp-page-handler="Producer" type="submit" value="Добавить"/>
+        </form>
+    </div>
+    <br />
+    <br />
+    <div style="border: 2px solid #333;">
+        <h1>Добавление категории</h1>
+        <form method="post">
+            <label for="name">Название категории:</label>
+            <input type="text" name="name" required><br>
+            <input asp-page-handler="Category" type="submit" value="Добавить" />
+        </form>
+    </div>
+    <br />
+    <br />
+    <div style="border: 2px solid #333;">
+        <h1>Экспорт</h1>
+        <form method="post">
+            <label for="name">От:</label>
+            <input type="date" name="after" required/><br>
+            <input type="date" name="before" required /><br>
+            <input asp-page-handler="Export" type="submit" value="Экспортировать" />
+        </form>
+    </div>
+
+</body>

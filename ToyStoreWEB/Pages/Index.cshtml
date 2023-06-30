@@ -1,0 +1,77 @@
+﻿@page
+@model IndexModel
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]ChildrenToys</title>
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+    <style>
+        .filter-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+            .filter-container select {
+                height: 30px;
+                margin: 5px;
+            }
+
+            .filter-container .button-container {
+                margin-top: 10px;
+            }
+
+                .filter-container .button-container button {
+                    margin-right: 10px;
+                }
+
+        .grid-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <h2 class="popular_text">Товары</h2>
+    <form method="post">
+        <div class="filter-container">
+            <label for="category-select">Фильтр по категории:</label>
+            <select id="category-select" name="category">
+                <option value="">Выберите категорию</option>
+                @foreach (var item in Model.Categories)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+
+            <label for="manufacturer-select">Фильтр по производителю:</label>
+            <select id="manufacturer-select" name="producer">
+                <option value="">Выберите производителя</option>
+                @foreach (var item in Model.Producers)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+
+            <div class="button-container">
+                <input type="submit" asp-page-handler="Filter" value="Применить фильтр" class="btn btn-primary reset-button"/>
+                <input type="submit" asp-page-handler="Reset" value="Сбросить фильтр" class="btn btn-primary reset-button"/>
+            </div>
+        </div>
+    </form>
+    
+    <div class="grid-container">
+        @foreach (var product in Model.Products)
+        {
+            <div class="card">
+                <div style="background-image: url(@product.Url)"></div>
+                <p>@product.Name</p>
+                <button type="button" class="btn btn-primary view-button"><a href="@Url.Page("/Product", new {product.Id})">Посмотреть информацию</a></button>
+            </div>
+        }
+    </div>
+</body>
+</html>

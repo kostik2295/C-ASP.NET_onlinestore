@@ -1,0 +1,374 @@
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.staticwebassets.runtime.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.exe
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.deps.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.runtimeconfig.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.AssemblyReference.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfoInputs.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfo.cs
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CoreCompileInputs.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cs
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.ToyStoreWEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.build.ToyStoreWEB.props
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToyStoreWEB.props
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToyStoreWEB.props
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\bundle\ToyStoreWEB.styles.css
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\projectbundle\ToyStoreWEB.bundle.scp.css
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CopyComplete
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\refint\ToyStoreWEB.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.genruntimeconfig.cache
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ref\ToyStoreWEB.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration1.resources
+C:\Users\Vaska\source\repos\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.GenerateResource.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.staticwebassets.runtime.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.exe
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.deps.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.runtimeconfig.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.AssemblyReference.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfoInputs.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfo.cs
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CoreCompileInputs.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cs
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.ToyStoreWEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.build.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\bundle\ToyStoreWEB.styles.css
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\projectbundle\ToyStoreWEB.bundle.scp.css
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CopyComplete
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\refint\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.genruntimeconfig.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ref\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration1.resources
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.GenerateResource.cache
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration2.resources
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.Development.json
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.json
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.staticwebassets.runtime.json
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.exe
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.deps.json
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.runtimeconfig.json
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.pdb
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Firebase.Auth.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Cloud.Location.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.LongRunning.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Auth.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.ServiceModel.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.CodeDom.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Linq.Async.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.AssemblyReference.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration1.resources
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration2.resources
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.GenerateResource.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfoInputs.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfo.cs
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CoreCompileInputs.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.MvcApplicationPartsAssemblyInfo.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cs
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.ToyStoreWEB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.build.ToyStoreWEB.props
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToyStoreWEB.props
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToyStoreWEB.props
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\bundle\ToyStoreWEB.styles.css
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\projectbundle\ToyStoreWEB.bundle.scp.css
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CopyComplete
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.dll
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\refint\ToyStoreWEB.dll
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.pdb
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.genruntimeconfig.cache
+D:\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ref\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration3.resources
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration4.resources
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itextsharp.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.forms.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.io.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.layout.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.sign.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.svg.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.commons.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.AssemblyReference.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfoInputs.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfo.cs
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CoreCompileInputs.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cs
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\refint\ToyStoreWEB.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.staticwebassets.runtime.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.exe
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.deps.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.runtimeconfig.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.forms.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.io.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.layout.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.sign.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.svg.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\itext.commons.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.ToyStoreWEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.build.ToyStoreWEB.props
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToyStoreWEB.props
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToyStoreWEB.props
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\bundle\ToyStoreWEB.styles.css
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\projectbundle\ToyStoreWEB.bundle.scp.css
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CopyComplete
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.genruntimeconfig.cache
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ref\ToyStoreWEB.dll
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration1.resources
+C:\Users\Vaska\Desktop\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.GenerateResource.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\appsettings.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.staticwebassets.runtime.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.exe
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.deps.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.runtimeconfig.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.AssemblyReference.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.Migrations.Migration1.resources
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.GenerateResource.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfoInputs.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.AssemblyInfo.cs
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CoreCompileInputs.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.RazorAssemblyInfo.cs
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.ToyStoreWEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.build.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToyStoreWEB.props
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\bundle\ToyStoreWEB.styles.css
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\scopedcss\projectbundle\ToyStoreWEB.bundle.scp.css
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.csproj.CopyComplete
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\refint\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.pdb
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ToyStoreWEB.genruntimeconfig.cache
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\obj\Debug\net6.0\ref\ToyStoreWEB.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Aspose.PDF.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rakze\Desktop\ToyStoreWEB (2)\ToyStoreWEB\ToyStoreWEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

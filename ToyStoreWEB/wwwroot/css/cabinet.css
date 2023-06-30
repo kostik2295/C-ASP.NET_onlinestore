@@ -1,0 +1,103 @@
+﻿/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Profile Form Styles */
+.profile-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+
+    .profile-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.user-info {
+    font-size: 18px;
+}
+
+/* Order History Styles */
+.order-history {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+    .order-history h3 {
+        margin-bottom: 10px;
+    }
+
+    .order-history ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+        .order-history ul li {
+            margin-bottom: 5px;
+        }
+
+/* Review History Styles */
+.review-history {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+    .review-history h3 {
+        margin-bottom: 10px;
+    }
+
+    .review-history ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+        .review-history ul li {
+            margin-bottom: 5px;
+        }
+
+/* Edit Button Styles */
+.edit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ff6600;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.hidden{
+    display: none;
+}
+.basket-button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .basket-button-container .btn {
+        background-color: #ff6600;
+        color: white;
+    }

@@ -1,0 +1,49 @@
+﻿@page
+@model ToyStoreWEB.Pages.BucketModel
+@{
+}
+<head>
+	    <title>@ViewData["Title"]ChildrenToys</title>
+	<link rel="stylesheet" href="~/css/bucket.css" asp-append-version="true" />
+</head>
+<body>
+	<h1>Корзина</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Название товара</th>
+				<th>Цена</th>
+				<th>Количество</th>
+				<th>Итого</th>
+				<th>Действия</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var product in UserInfo.Bucket)
+			{
+				
+				<tr>
+					<td>@product.Product.Name</td>
+					<td>@product.Product.Price р.</td>
+					<td>@product.Count</td>
+					@{
+						double sum = product.Product.Price * product.Count;
+						<td class="total-price">@sum р.</td>
+					}
+					<td>
+						<form method="post">
+							<input type="number" id="id" value="@UserInfo.Bucket.IndexOf(product)" style="display: none;"/> 
+							<input class="delete-button" type="submit" value="Удалить" asp-page-handler="Delete"/>
+						</form>
+					</td>
+				</tr>
+			}
+
+
+		</tbody>
+	</table>
+	<div class="button-container">
+		<button class="registerbtn"><a href="@Url.Page("/AddRew")">Оформить заказ</a></button>
+	</div>
+	<script src="~/js/bucket.js"></script>
+</body>

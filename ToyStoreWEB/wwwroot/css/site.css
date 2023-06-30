@@ -1,0 +1,14 @@
+﻿body{
+    zoom: 150%;
+}
+
+.header{
+    display: flex;
+    margin-left: 10%;
+}
+
+.content{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

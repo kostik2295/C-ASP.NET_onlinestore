@@ -1,0 +1,47 @@
+﻿@page
+@model ToyStoreWEB.Pages.ProductModel
+@{
+}
+<html>
+<head>
+	<title>@ViewData["Title"]ChildrenToys</title>
+	<link rel="stylesheet" href="~/css/tovar.css" asp-append-version="true" />
+</head>
+<body>
+	<div class="product-container">
+		<div class="product-image">
+			<img src="@Model.Product.Url" alt="Product Image">
+		</div>
+		<form method="post">
+			<div class="product-description">
+				<h1>Название товара: @Model.Product.Name</h1>
+				<p>Описание товара: @Model.Product.Description</p>
+				<p>Цена: @Model.Product.Price</p>
+				@{
+					if(UserInfo.Status is UserStatus.Account)
+					{
+						<p>Количество: <input type="number" name="count" value="@ProductModel.Count"></p>
+					}
+				}
+				<p>Категория: @Model.Product.Category.Name</p>
+				<p>Производитель: @Model.Product.Producer.Name</p>
+				<p>Компания: @Model.Product.Producer.Company</p>
+			</div>
+			@{
+				if (UserInfo.Status is UserStatus.Account)
+				{
+					if (Model.Status)
+					{
+						<button type="button" class="btn btn-primary view-button">Добавлено</button>
+					}
+					else
+					{
+						<input type="submit" class="btn btn-primary add-button" asp-page-handler="Bucket" value="Добавить в корзину" />
+					}
+				}
+			}
+		</form>
+
+	</div>
+</body>
+</html>

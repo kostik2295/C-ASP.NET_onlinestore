@@ -1,0 +1,23 @@
+﻿@page
+@model ToyStoreWEB.Pages.RegistrModel
+@{
+}
+<head>
+	<title>@ViewData["Title"]ChildrenToys</title>
+	<link rel="stylesheet" href="~/css/registr.css" asp-append-version="true" />
+</head>
+<body>
+
+	<form method="post">
+		<h1>Регистрация</h1>
+		<label for="login"><b><font style="color:#ff6600">Логин</font></b></label>
+		<input type="text" placeholder="Введите логин" name="login" required>
+		<label for="password"><b><font style="color:#ff6600">Пароль</font></b></label>
+		<input type="password" placeholder="Введите пароль" name="password" required>
+		<label for="repeatPassword"><b><font style="color:#ff6600">Повторите пароль</font></b></label>
+		<input type="password" placeholder="Введите пароль" name="repeatPassword" required>
+		<p>Создавая учетную запись, вы соглашаетесь с нашими <a style="color:#ff6600" href="@Url.Page("/Privacy")">Условия и конфиденциальность</a>.</p>
+		<input style="background-color:#ff6600" type="submit" asp-page-handler="SignUp" value="Зарегитрироваться"/>
+		<p>Есть аккаунт? <a style="color:#ff6600" href="@Url.Page("/Auth")">Войти</a>.</p>
+	</form>
+</body>

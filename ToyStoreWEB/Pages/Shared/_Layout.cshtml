@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>@ViewData["Title"]ChildrenToys</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="header">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">ChildrenToys</a>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="@Url.Page("/Index")">Товары</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="@Url.Page("/Privacy")">Политика</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="@Url.Page("/Contact")">Контакты</a>
+                        </li>
+                        @{
+                            if (UserInfo.Status is UserStatus.Account)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="@Url.Page("/Bucket")">Корзина</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="@Url.Page("/Cabinet")">Личный кабинет</a>
+                                </li>
+                            }
+                            else if(UserInfo.Status is UserStatus.Login)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="@Url.Page("/Auth")">Войти</a>
+                                </li>
+                            }
+                            else if(UserInfo.Status is UserStatus.AdminExit || UserInfo.Status is UserStatus.AccountExit)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="@Url.Page("/Index", new { exit = true})">Выйти</a>
+                                </li>
+                            }
+                            else if(UserInfo.Status is UserStatus.Admin)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" href="@Url.Page("/Admins")">Администратор</a>
+                                </li>  
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="content">
+        @RenderBody()
+    </div>
+</body>
+</html>

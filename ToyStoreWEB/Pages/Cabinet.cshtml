@@ -1,0 +1,72 @@
+﻿@page
+@model ToyStoreWEB.Pages.CabinetModel
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>@ViewData["Title"]ChildrenToys</title>
+	<link rel="stylesheet" href="~/css/cabinet.css" asp-append-version="true" />
+</head>
+<body>
+	<h1>Личный кабинет</h1>
+	<div class="container">
+		<div class="profile-form">
+			<div class="profile-image">
+				<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="User Photo">
+			</div>
+
+			<form method="post">
+				<div class="user-info">
+					<p></p>
+					<p>Логин: @Model.User.Login</p>
+					<p>Адрес: @Model.User.Adress</p>
+					<p>Телефон: @Model.User.Phone</p>
+					<input type="submit" class="btn btn-primary edit-button" value="Изменить данные" asp-page-handler="OpenChange" />
+				</div>
+			</form>
+			<form method="post">
+				<div class="user-info @CabinetModel.StatusChange">
+					<p></p>
+					<p></p>
+					<p>Адрес: <input type="text" name="adres" /></p>
+					<p>Телефон: <input type="text" name="phone" /></p>
+					<input type="submit" class="btn btn-primary edit-button" value="Сохранить" asp-page-handler="Change" />
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<div>
+		<form method="post">
+			<input type="submit" class="btn btn-primary edit-button" value="Открыть корзину" asp-page-handler="OpenBucket" />
+
+		</form>
+	</div>
+
+	<div class="container">
+		<div class="order-history">
+			<h3>История заказов:</h3>
+			<ul>
+				@{
+					foreach (var item in Model.Orders)
+					{
+						string result = $"Заказ №{item.Id}\n";
+						<li>@result</li>
+						<ul>
+							@foreach (var product in item.Products)
+							{
+								Models.Product product1 = Model.db.Products.FirstOrDefault(x => x.Id == product.ProductId);
+								string productResult = $"{product1.Name}, кол-во: {product.Count} шт.";
+								<li>@productResult</li>
+							}
+						</ul>
+					}
+				}
+			</ul>
+		</div>
+	</div>
+
+	<!-- Добавьте код для истории отзывов здесь -->
+</body>
+</html>

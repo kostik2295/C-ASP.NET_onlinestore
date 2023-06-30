@@ -1,0 +1,24 @@
+﻿@page
+@model ToyStoreWEB.Pages.AuthModel
+@{
+}
+<html>
+<head>
+	<title>@ViewData["Title"]ChildrenToys</title>
+	<link rel="stylesheet" href="~/css/auth.css" asp-append-version="true" />
+</head>
+<body>
+	<form method="post" class="auth-form">
+		<h1>Вход</h1>
+		<p>Заполните данные</p>
+		<hr>
+		<label for="login"><b><font style="color:#ff6600">Логин</font></b></label>
+		<input type="text" placeholder="Введите логин" name="login" required>
+		<label for="password"><b><font style="color:#ff6600">Пароль</font></b></label>
+		<input type="password" placeholder="Введите пароль" name="password" required>
+		<p>Создавая учетную запись, вы соглашаетесь с нашими <a style="color:#ff6600" href="@Url.Page("/Privacy")">Условия и конфиденциальность</a>.</p>
+		<input type="submit" asp-page-handler="Login" value="Войти" />
+		<p>Нету аккаунта? <a style="color:#ff6600" href="@Url.Page("/Registr")">Зарегестрироваться</a>.</p>
+	</form>
+</body>
+</html>
